@@ -1,5 +1,0 @@
-C:/Users/User/My Drive/Projects/fltk-test/build/CMakeFiles/edit_cache.dir
-C:/Users/User/My Drive/Projects/fltk-test/build/CMakeFiles/rebuild_cache.dir
-C:/Users/User/My Drive/Projects/fltk-test/build/src/CMakeFiles/fltk-test.dir
-C:/Users/User/My Drive/Projects/fltk-test/build/src/CMakeFiles/edit_cache.dir
-C:/Users/User/My Drive/Projects/fltk-test/build/src/CMakeFiles/rebuild_cache.dir
