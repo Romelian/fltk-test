@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/User/My Drive/Projects/fltk-test/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -I\"C:/Users/User/My Drive/Projects/fltk-test/src/include\" -g -std=gnu++20 -o src\\CMakeFiles\\fltk-test.dir\\main.cpp.obj -c \"C:\\Users\\User\\My Drive\\Projects\\fltk-test\\src\\main.cpp\"",
+  "file": "C:\\Users\\User\\My Drive\\Projects\\fltk-test\\src\\main.cpp"
+}
+]
